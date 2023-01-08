@@ -1,5 +1,7 @@
 <?php
 
+<?php
+
 namespace spec\App\Application\Answers;
 
 use App\Application\Answers\ChangeAnswerCommand;

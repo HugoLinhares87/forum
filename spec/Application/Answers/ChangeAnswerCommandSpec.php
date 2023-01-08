@@ -41,4 +41,3 @@ class ChangeAnswerCommandSpec extends ObjectBehavior
         $this->body()->shouldBe($this->body);
     }
 }
-
