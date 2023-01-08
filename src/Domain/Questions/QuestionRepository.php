@@ -9,6 +9,7 @@
 
 declare(strict_types=1);
 
+
 namespace App\Domain\Questions;
 
 use App\Domain\Exception\EntityNotFound;
